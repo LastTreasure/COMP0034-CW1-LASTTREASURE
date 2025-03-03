@@ -1,0 +1,11 @@
+#Packages in Web_app
+dash
+dash_bootstrap_components
+plotly.graph_objs
+plotly.express
+pandas
+
+#Packages in test_web_app
+pytest
+selenium
+dash-testing-stub
